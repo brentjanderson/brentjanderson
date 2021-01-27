@@ -5,7 +5,7 @@
 A few things I'm interested in:
 
 - 👉 Strengthening society by strengthening families & economic self-reliance
-- 🎙 Podcasts on [Mindfulness](https://www.mymindfulmat.com/moment/) & [Intentional Family Life](https://www.coriaria.com/intentionalfamilymoment/)
+<!--- 🎙 Podcasts on [Mindfulness](https://www.mymindfulmat.com/moment/) & [Intentional Family Life](https://www.coriaria.com/intentionalfamilymoment/)-->
 - 🎓 Enabling economic mobility through education at [Lambda School](https://www.lambdaschool.com)
 - ♻️ Getting to real value faster in startups by building great teams and empowering them with great process & tools
 - 📬 I'm on [Mastodon](https://mastodon.social/@bja) and [Twitter](https://www.twitter.com/brentjanderson)
