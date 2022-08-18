@@ -4,7 +4,6 @@
 
 A few things I'm interested in:
 
-- 👉 Strengthening society by strengthening families & economic self-reliance
 - 🚪 Improving the attention economy at [Knock.app](https://knock.app)
 - ♻️ Getting to real value faster in startups by building great teams and empowering them with great process & tools
 - 📬 I'm on [Mastodon](https://mastodon.social/@bja) and [Twitter](https://www.twitter.com/brentjanderson)
