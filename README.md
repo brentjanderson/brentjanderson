@@ -6,7 +6,7 @@ A few things I'm interested in:
 
 - 🚪 Improving the attention economy at [Knock.app](https://knock.app)
 - ♻️ Getting to real value faster in startups by building great teams and empowering them with great process & tools
-- 📬 I'm on [Mastodon](https://mastodon.social/@bja) and [Twitter](https://www.twitter.com/brentjanderson)
+- 📬 I'm on [Mastodon](https://social.brentjanderson.com/@bja) and [Twitter](https://www.twitter.com/brentjanderson)
 
 On the tech-side of things, my primary interests lately have been:
 
